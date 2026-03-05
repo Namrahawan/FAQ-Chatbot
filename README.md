@@ -54,8 +54,6 @@ It is designed to answer frequently asked questions automatically by leveraging 
 1. .\venv\Scripts\Activate.ps1 
 2. if this Error occur "Running script is not allowed" then Run this command
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+3. Then again run .\venv\Scripts\Activate.ps1 this command.
 
-Happy Coding
-4. Then again run .\venv\Scripts\Activate.ps1 this command.
 
-### Step 5: 
