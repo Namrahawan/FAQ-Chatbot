@@ -1,7 +1,7 @@
 import os
 from google import genai
 
-# 🔐 API Key yahan paste karo
+
 client = genai.Client(api_key="AIzaSyAaaMTKwX2S_1XWr20-hNL7lHDq5gJ9HBk")
 
 # ---- FAQ DATA ----
