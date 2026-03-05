@@ -1,5 +1,32 @@
-# FAQ Bot Project - Initial Setup
+# FAQ Chatbot Using Gemini API
 
+## Overview
+This is a simple FAQ Chatbot built using the **Gemini API**.  
+It is designed to answer frequently asked questions automatically by leveraging AI. The bot processes user input, matches it with a predefined FAQ knowledge base, and provides accurate responses.
+
+## Features
+- Handles user queries with real-time responses.  
+- Uses a **FAQ knowledge base** for predefined questions and answers.  
+- Includes a **decision logic/escalation system** for unrecognized queries.  
+- Easy to extend by adding new questions or modifying existing ones.  
+
+---
+
+## Project Structure
+- **`main.py`**: Contains the main chatbot code and execution loop.  
+- **`faq_list.py`**: Stores the FAQ questions and answers.  
+- **`requirements.txt`**: Lists all dependencies required to run the bot.  
+- **`.gitignore`**: Ignores unnecessary files like virtual environments.  
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Namrahawan/FAQ-Chatbot.git
+---------------------------------------------------------------------------------------------------------------
+
+# FAQ Bot Project - Initial Setup
 ## Project Status
 - Project folder created
 - Initial files created
@@ -27,6 +54,8 @@
 1. .\venv\Scripts\Activate.ps1 
 2. if this Error occur "Running script is not allowed" then Run this command
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-3. Then again run .\venv\Scripts\Activate.ps1 this command.
+
+Happy Coding
+4. Then again run .\venv\Scripts\Activate.ps1 this command.
 
 ### Step 5: 
