@@ -56,4 +56,6 @@ It is designed to answer frequently asked questions automatically by leveraging 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 3. Then again run .\venv\Scripts\Activate.ps1 this command.
 
+### python-dotenv package installed for env file
+1. pip install python-dotenv
 

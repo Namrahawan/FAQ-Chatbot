@@ -4,3 +4,4 @@ python_version >= 3.14
 # Google Cloud SDK installed (system level, not a pip package)
 # Note: Google SDK setup is complete
 
+# python-dotenv
